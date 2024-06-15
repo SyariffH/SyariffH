@@ -7,7 +7,7 @@
 <br>
 
 # 💫 About Me:<br>
-I'm a newbie Web developer and Beckend Developer.<br>I started coding in nodeJS, HTML, CSS and JavaScript. Aku hanya pemula yang mencoba NodeJS dan HTML.<br><br> Di bulan July 2023 aku memiliki sebuah projek bersama dengan temanku, dan projek itu selesai pada Desember 2023. Projek itu adalah bot whatsapp, yang mana kalian bisa berpacaran dengan anime di bot itu. Jika kalian penasaran dengan fiturnya, bisa menghubungi WhatsApp saya di bawah.  ↓
+I'm a newbie Beckend developer and Web Developer.<br>I started coding in nodeJS, HTML, CSS and JavaScript. Aku hanya pemula yang mencoba NodeJS dan HTML.<br><br> Di bulan July 2023 aku memiliki sebuah projek bersama dengan temanku, dan projek itu selesai pada Desember 2023. Projek itu adalah bot whatsapp, yang mana kalian bisa berpacaran dengan anime di bot itu. Jika kalian penasaran dengan fiturnya, bisa menghubungi WhatsApp saya di bawah.  ↓
 
 ---
 <br>
