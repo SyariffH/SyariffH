@@ -7,7 +7,24 @@
 <br>
 
 # 💫 About Me:<br>
-I'm a newbie Beckend developer and Web Developer.<br>I started coding in nodeJS, HTML, CSS and JavaScript. Aku hanya pemula yang mencoba NodeJS dan HTML.<br><br> Di bulan July 2023 aku memiliki sebuah projek bersama dengan temanku, dan projek itu selesai pada Desember 2023. Projek itu adalah bot whatsapp, yang mana kalian bisa berpacaran dengan anime di bot itu. Jika kalian penasaran dengan fiturnya, bisa menghubungi WhatsApp saya di bawah.  ↓
+<li>
+  <b>Name:</b> Syll Takamiya
+</li>
+<li>
+  <b>Age:</b> 16 Years
+</li>
+<li>
+  <b>Hobbys:</b> Nganggur
+</li>
+<li>
+  <b>Loves:</b> Anime, Music
+</li>
+<li>
+  <b>Website:</b> https://sylltakamiya.vercel.app
+</li>
+<li>
+  <b>About:</b> I'm a newbie Beckend developer and Web Developer. I started coding in nodeJS, HTML, CSS and JavaScript. Aku hanya pemula yang mencoba NodeJS dan HTML.
+</li>
 
 ---
 <br>
