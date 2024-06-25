@@ -14,7 +14,7 @@
   <b>Age:</b> 16 Years
 </li>
 <li>
-  <b>Hobbys:</b> Nganggur
+  <b>Hobbys:</b> Nganggur, Nonton Anime
 </li>
 <li>
   <b>Loves:</b> Anime, Music
@@ -23,7 +23,7 @@
   <b>Website:</b> https://sylltakamiya.vercel.app
 </li>
 <li>
-  <b>About:</b> I'm a newbie Beckend developer and Web Developer. I started coding in nodeJS, HTML, CSS and JavaScript. Aku hanya pemula yang mencoba NodeJS dan HTML.
+  <b>About:</b> I started coding in nodeJS, HTML, CSS and JavaScript. Aku hanya pemula yang mencoba NodeJS dan HTML.
 </li>
 
 ---
