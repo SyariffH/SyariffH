@@ -14,13 +14,13 @@
   <b>Age:</b> 16 Years
 </li>
 <li>
-  <b>Hobbys:</b> Nganggur, Nonton Anime
+  <b>Hobbys:</b> Nganggur, Nonton Anime, Listen Music
 </li>
 <li>
-  <b>Loves:</b> Anime, Music
+  <b>Loves:</b> Miku Izayoi
 </li>
 <li>
-  <b>Website:</b> https://sylltakamiya.vercel.app
+  <b>Website:</b> https://syariffh.github.io/Website/index.html
 </li>
 <li>
   <b>About:</b> I started coding in nodeJS, HTML, CSS and JavaScript. Aku hanya pemula yang mencoba NodeJS dan HTML.
@@ -32,10 +32,8 @@
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/Php%20-%234285F4.svg?&style=for-the-badge&logo=php&logoColor=lightblue"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 <div align="center">
