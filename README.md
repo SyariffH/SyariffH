@@ -59,7 +59,7 @@
 <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
 <div style="width:80%">
-<a href="https://visitcount.itsvg.in">
+<a href="https://visitcount.itsvg.in/api?id=SyariffH&label=Profile%20Views&icon=0&pretty=true">
 <img src="https://visitcount.itsvg.in/api?id=SyariffH&label=Profile%20Views&icon=0&pretty=true" width="300" height="">
 </div>
 </details> 
