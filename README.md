@@ -8,7 +8,7 @@
 
 # 💫 About Me:<br>
 <li>
-  <b>Name:</b> Syll Takamiya
+  <b>Name:</b> ['Syll Takamiya', 'Syariff']
 </li>
 <li>
   <b>Age:</b> 16 Years
@@ -17,7 +17,7 @@
   <b>Hobbys:</b> Nganggur, Nonton Anime, Listen Music
 </li>
 <li>
-  <b>Loves:</b> Miku Izayoi
+  <b>Loves:</b> Atsuko Hakari
 </li>
 <li>
   <b>Website:</b> https://syariffh.github.io/Website/index.html
