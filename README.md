@@ -8,7 +8,7 @@
 
 # 💫 About Me:<br>
 <li>
-  <b>Name:</b> ['Syll Takamiya', 'Syariff']
+  <b>Name:</b> [ 'Syll Takamiya', 'Syariff' ]
 </li>
 <li>
   <b>Age:</b> 16 Years
