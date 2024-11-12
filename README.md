@@ -11,7 +11,7 @@
   <b>Name:</b> Syll Takamiya
 </li>
 <li>
-  <b>Partner:</b> Ciaa
+  <b>Partner:</b> CiaCntkk
 </li>
 <li>
   <b>Hobbys:</b> Nganggur, Nonton Anime, Listen Music
