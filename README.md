@@ -8,10 +8,10 @@
 
 # 💫 About Me:<br>
 <li>
-  <b>Name:</b> [ 'Syll Takamiya', 'Syariff' ]
+  <b>Name:</b> Syll Takamiya
 </li>
 <li>
-  <b>Age:</b> 16 Years
+  <b>Partner:</b> Ciaa
 </li>
 <li>
   <b>Hobbys:</b> Nganggur, Nonton Anime, Listen Music
@@ -90,8 +90,8 @@
 social media</p>
 
 <p align="center">
-<a href="https://wa.me/6281953678883" target="_blank"><img src="https://img.shields.io/badge/Syll%20Takamiya-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<a href="https://tiktok.com/@syrff.h" target="_blank"><img src="https://img.shields.io/badge/-Noxx%20Catalyst-black?&style=for-the-badge&logo=Tiktok&logoColor=white"/></a>
-<a href="https://www.instagram.com/syrff.h" target="_blank"><img src="https://img.shields.io/badge/-Syarzz-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://whatsapp.com/channel/0029VaiZWDR1nozBLLhlUL1y" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://tiktok.com/@syrff.h" target="_blank"><img src="https://img.shields.io/badge/-TikTok-black?&style=for-the-badge&logo=Tiktok&logoColor=white"/>
+<a href="https://www.instagram.com/syrff.h" target="_blank"><img src="https://img.shields.io/badge/-Instagram-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </p>
 </div>
