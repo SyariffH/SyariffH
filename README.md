@@ -8,10 +8,10 @@
 
 # 💫 About Me:<br>
 <li>
-  <b>Name:</b> Syll Takamiya
+  <b>Name:</b> Syarzz Takamiya
 </li>
 <li>
-  <b>Partner:</b> CiaCntkk
+  <b>Partner:</b> Chikkyy
 </li>
 <li>
   <b>Hobbys:</b> Nganggur, Nonton Anime, Listen Music
